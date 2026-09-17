@@ -17,6 +17,6 @@ I spend my days building products with AI, and my nights tinkering with AI apps,
 
 I'm always happy to swap notes on AI products, agent workflows, or building things for the first time.
 
-💼 LinkedIn: linkedin.com/in/sridhar-iyer-826b222b
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-iyer-826b222b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridhar.iyer.10@gmail.com)
 
-📫 Reach me: sridhar.iyer.10@gmail.com
