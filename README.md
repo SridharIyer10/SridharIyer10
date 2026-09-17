@@ -4,8 +4,7 @@ Product Manager building AI-native tools — and sharing what I learn along the 
 
 I spend my days building products with AI, and my nights tinkering with AI apps, agent workflows, and small tools. This page is where I collect the interesting things I build or find — and try to make them approachable enough that anyone, technical or not, can poke around and learn something.
 
-What I do
-Product Manager — 15+ years building product.
+What I do - Product Manager 15+ years building product.
 
 Builder — I ship small AI apps and agent-driven workflows to solve real problems (and to learn by doing).
 
